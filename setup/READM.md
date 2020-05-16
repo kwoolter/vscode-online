@@ -46,3 +46,16 @@ In the `.vscode` directory of the workspace edit the `settings.json` file so tha
 
 NB: I can't remeber how this directory and file were created
 
+## Connecting you workspace to GitHub
+
+- Create a new repo on gitHub e.g. `new_repo_name`
+- From VS online terminal run:
+`git remote add origin https://github.com/kwoolter/new_repo_name.git`
+
+This will add the remote which should appear in the `settings.json` file
+
+    "githubPullRequests.remotes": [
+        "origin",
+        "upstream",
+        "https://github.com/kwoolter/vscode-online.git"
+    ]

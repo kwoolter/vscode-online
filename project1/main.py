@@ -1,4 +1,5 @@
-import project1.package1 as p1
+#import project1.package1 as p1
+import package1 as p1
 
 
 def main():
