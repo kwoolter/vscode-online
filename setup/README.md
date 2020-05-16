@@ -44,7 +44,7 @@ In the `.vscode` directory of the workspace edit the `settings.json` file so tha
 }
 `
 
-NB: I can't remeber how this directory and file were created
+NB: I can't remember how this directory and file were created
 
 ## Connecting you workspace to GitHub
 
