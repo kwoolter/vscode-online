@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+*.pyc
 *$py.class
 
 # C extensions
@@ -139,3 +140,5 @@ cython_debug/
 project1/package1/__pycache__/classes.cpython-38.pyc
 project1/package1/__pycache__/classes.cpython-38.pyc
 project1/package1/__pycache__/__init__.cpython-38.pyc
+project1/package1/__pycache__/classes.cpython-38.pyc
+project1/package1/__pycache__/classes.cpython-38.pyc

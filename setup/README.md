@@ -94,3 +94,8 @@ Create a `.env` file in the `.vscode` directory and add something like this:-
 
 `PYTHONPATH=/home/vsonline/workspace/project1:./project1`
 
+
+Some useful studd here:
+https://donjayamanne.github.io/pythonVSCodeDocs/docs/python-path/
+
+
