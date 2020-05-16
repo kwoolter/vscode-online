@@ -1,9 +1,14 @@
 {
     "python.pythonPath": "/opt/python/latest/bin/python3.8",
+    "python.envFile": "${workspaceFolder}/.env",
     "githubPullRequests.remotes": [
         "origin",
         "upstream",
         "https://github.com/kwoolter/vscode-online.git"
     ],
-    "search.useIgnoreFiles": false
+    "search.useIgnoreFiles": false,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "terminal.integrated.env.linux": {
+        "PYTHONPATH": "${workspaceFolder}"
+    }
 }
