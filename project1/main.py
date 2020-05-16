@@ -6,6 +6,7 @@ def main():
     print("Hello World")
 
     a = p1.A("Keith")
+    a.move()
     print(str(a))
 
     b = p1.B("Jack")
