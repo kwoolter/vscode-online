@@ -4,5 +4,6 @@
         "origin",
         "upstream",
         "https://github.com/kwoolter/vscode-online.git"
-    ]
+    ],
+    "search.useIgnoreFiles": false
 }
